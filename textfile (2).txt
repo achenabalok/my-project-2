@@ -1,0 +1,74 @@
+{
+  "version": "2.0",
+  "metadata": {
+    "target_resolution": "3840x2160",
+    "aspect_ratio": "9:16",
+    "render_engine": "Photorealistic Path-Tracing",
+    "color_space": "Natural Warm D65"
+  },
+  "subject_layer": {
+    "identity": {
+      "name": "Billie Eilish",
+      "likeness_fidelity": "High",
+      "reference_era": "Blonde Era"
+    },
+    "anatomy": {
+      "hair": {
+        "color": "Bleached Blonde",
+        "style": "Long, messy-chic waves",
+        "parting": "Symmetrical center part",
+        "texture": "Visible individual strands"
+      },
+      "makeup": {
+        "aesthetic": "Soft Glam",
+        "details": ["Sharp feline winged eyeliner", "Nude-beige eyeshadow", "High-shine clear lip gloss"],
+        "skin_render": "Pore-level detail, natural skin imperfections, soft matte finish"
+      }
+    },
+    "attire": {
+      "top": "Black micro-ribbed elastane bandeau crop top",
+      "bottom": "High-waisted black silk-blend skirt, thigh-high left-side slit, ruched side knot",
+      "accessories": [
+        "Gold-plated layered chains with small circular pendants",
+        "Thin gold chain bracelet on right wrist"
+      ]
+    },
+    "kinetics": {
+      "pose": "Reclined, leaning weight on right armrest",
+      "hand_placement": {
+        "right": "Flattened on sofa cushion",
+        "left": "Relaxed on upper thigh"
+      },
+      "eye_contact": "Direct-to-lens, soft gaze"
+    }
+  },
+  "environment_layer": {
+    "primary_setting": "Upscale Modern Living Room",
+    "structural_elements": {
+      "walls": "Eggshell finish, warm yellow pigment",
+      "back_wall": "Floor-to-ceiling mirrored panels with subtle edge beveling"
+    },
+    "furniture": {
+      "main_piece": "Beige oversized sectional",
+      "fabric": "Heavy-weave linen texture",
+      "accents": "Kilim-patterned throw pillows in earth tones"
+    },
+    "reflective_background": {
+      "elements": ["Minimalist kitchen cabinetry", "Stainless steel fridge", "Wooden dining set"],
+      "lighting_fixtures": "Modern cylindrical black pendant lights"
+    }
+  },
+  "optical_layer": {
+    "lighting_design": {
+      "primary": "Warm ceiling track lighting (3000K)",
+      "secondary": "Directional natural daylight from window (side-lit)",
+      "shadows": "Soft contact shadows, minimal harsh edges"
+    },
+    "camera_settings": {
+      "focal_length": "35mm wide-angle",
+      "aperture": "f/2.8 (shallow depth of field)",
+      "focus": "Pin-sharp on subject eyes",
+      "bokeh": "Reflective highlights in mirrors rendered as soft orbs"
+    }
+  }
+}
